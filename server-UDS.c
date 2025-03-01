@@ -4,7 +4,7 @@
 #include <sys/un.h>
 #include <unistd.h>
 
-#define SOCKET_PATH "/tmp/unix_socket_3264"
+#define SOCKET_PATH "/tmp/unix_socket_3250"
 
 int main() {
     int server_sock, client_sock;
