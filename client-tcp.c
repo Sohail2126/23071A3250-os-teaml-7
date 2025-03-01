@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 
-#define PORT 3264
+#define PORT 3250
 #define SERVER_IP "127.0.0.1"
 
 int main() {
